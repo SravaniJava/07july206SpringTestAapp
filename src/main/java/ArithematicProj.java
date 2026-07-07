@@ -8,5 +8,5 @@ public class ArithematicProj {
         System.out.println("test");
         ArithematicProj proj = new ArithematicProj();
         System.out.println("object creation is done");
-        System.out.println("sum value is"+proj.sum(2,3));}
+        System.out.println("sum value is:  "+proj.sum(5,6));}
 }
