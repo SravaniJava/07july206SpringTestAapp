@@ -11,7 +11,7 @@ public class ArithematicProj {
     }
     /*this is written by vani*/
     public int sub(int x, int y){
-        int res = y - x;
+        int res = x - y;
         return res;
     }
 
