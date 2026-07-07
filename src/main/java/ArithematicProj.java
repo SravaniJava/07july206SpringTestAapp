@@ -9,7 +9,10 @@ public class ArithematicProj {
         int res= x + y;
         return res;
     }
-
+    public int mul(int x, int y){
+        int res = x * y;
+        return  res;
+    }
     /*this is written by vani*/
     public int sub(int x, int y){
         int res = x - y;
