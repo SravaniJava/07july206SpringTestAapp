@@ -9,9 +9,9 @@ class ArithematicProjTest {
     public void sumTest(){
         int x = 5;
         int y = 6;
-        ArithematicProj proj = new ArithematicProj();
+        ArithematicProj proj = new ArithematicProj(4,5);
           int res=proj.sum(x,y);
-          assertEquals(13,res);
+          assertEquals(11,res);
 
     }
 
