@@ -25,5 +25,6 @@ public class ArithematicProj {
         ArithematicProj proj = new ArithematicProj(4, 5);
         System.out.println("object creation is done");
         System.out.println("sum value is"+proj.sum(proj.x, proj.y));
+        System.out.println("sub value is "+proj.sub(proj.x,proj.y));
     }
 }
