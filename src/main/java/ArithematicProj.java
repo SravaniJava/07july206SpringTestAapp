@@ -11,6 +11,7 @@ public class ArithematicProj {
     }
     public int mul(int x, int y){
         int res = x * y;
+        System.out.println("this is for mul result"+res);
         return  res;
     }
     /*this is written by vani*/
