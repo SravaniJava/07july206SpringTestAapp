@@ -9,9 +9,11 @@ public class ArithematicProj {
         int res= x + y;
         return res;
     }
+
     /*this is written by vani*/
     public int sub(int x, int y){
         int res = x - y;
+        System.out.println("value for the result of subtraction is " + res);
         return res;
     }
 
