@@ -7,7 +7,7 @@ public class ArithematicProj {
     }
     public int sum(int x, int y){
         int res= x + y;
-        System.out.println("this is for sum result1278"+res);
+        System.out.println("this is for sum result12986"+res);
         System.out.println("this is my again testing");
         return res;
     }
